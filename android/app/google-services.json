@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "627019986151",
+    "project_id": "digitrecognitionapp-c9263",
+    "storage_bucket": "digitrecognitionapp-c9263.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627019986151:android:4396e50801538d3cdc1e42",
+        "android_client_info": {
+          "package_name": "com.example.digit_recognition_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSCb4T5hjNaqi2yKL2FcwurDr0BmTpmJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
